@@ -55,6 +55,16 @@ h1, h2 {
     padding: 5% 7%;
 }
 
+.btn-primary {
+    background-color: #1f7798;
+    border: #1f7798;
+}
+
+.btn-primary:hover {
+    background-color: #1d6d8a;
+    border:#1d6d8a;
+}
+
 @media screen and (min-width: 1200px) {
     #portfolio .card-text {
         min-height: auto;
